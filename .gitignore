@@ -1,0 +1,24 @@
+# Environment secrets
+.env
+**/.env
+
+# Java / Maven
+**/target/
+*.class
+
+# Node / frontend build
+**/node_modules/
+**/dist/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
+
+# OS and logs
+.DS_Store
+Thumbs.db
+*.log
